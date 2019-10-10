@@ -2,6 +2,8 @@
 Fizzbuzz test
 
 ## Languages:
-- HTML 
-- CSS
+- HTML :
+  HTML5
+- CSS:
+  CSS3
 - JS
